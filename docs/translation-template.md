@@ -5,7 +5,7 @@ Here's the template of a JSON translation file:
 ```json
 {
   // Personal Information
-  "name": "Aladdine Abdou", // Full name (first name and last name)
+  "name": "Drissa Sidiki Traore", // Full name (first name and last name)
   "description": "Software Imagineer", // Your professional title or role (e.g., Software Engineer)
   "subDescription": "Flutter Enthusiast", // A brief description of your interests or focus
 
@@ -29,7 +29,7 @@ Here's the template of a JSON translation file:
   ],
 
   // About Me
-  "aboutDescription": "Hello! I'm Aladdine, an apprentice developer and third-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical expericence to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.", // about text that is displayed in "About Me" section
+  "aboutDescription": "Salam! I'm Aladdine, an apprentice developer and third-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical expericence to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.", // about text that is displayed in "About Me" section
 
   // Experiences
   "experiences": [
@@ -71,8 +71,8 @@ Here's the template of a JSON translation file:
       ],
       "links": [
         {
-          "url": "https://aladdine.dev", // URL to open when the corresponding link is tapped
-          "display": "Inspired by Aladdine Abdou" // Displayed text for the link
+          "url": "", // URL to open when the corresponding link is tapped
+          "display": "" // Displayed text for the link
         }
       ]
     }
@@ -89,9 +89,9 @@ Here's the template of a JSON translation file:
 
   // Bottom banner
   "bottomBanner": {
-    "message": "Open source portfolio -", // Text at the beginning of the "displayLink" part
-    "displayLink": "Fork it!", // Text at the end of the "message" part
-    "linkUrl": "https://github.com/aaldn/portfolio" // URL to open when the "displayLink" part is tapped
+    "message": "", // Text at the beginning of the "displayLink" part
+    "displayLink": "", // Text at the end of the "message" part
+    "linkUrl": "" // URL to open when the "displayLink" part is tapped
   },
 
   // Navigation and Section Titles

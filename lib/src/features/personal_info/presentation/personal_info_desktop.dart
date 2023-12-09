@@ -16,27 +16,41 @@ class PersonalInfoDesktop extends ConsumerWidget {
     final resumes = ref.watch(personalInfoRepositoryProvider).getResumes();
     final contacts = ref.watch(personalInfoRepositoryProvider).getContacts();
 
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
+    return ListView(
+      //crossAxisAlignment: CrossAxisAlignment.center,
       children: [
-        Text(
-          tr(LocaleKeys.name),
-          style: Theme.of(context).textTheme.displayLarge,
+        const Center(
+          child: CircleAvatar(
+            radius: 100,
+            backgroundImage: AssetImage("assets/images/profile.png"),
+          ),
+        ),
+
+
+        Center(
+          child: Text(
+            tr(LocaleKeys.name),
+            style: Theme.of(context).textTheme.displayLarge,
+          ),
         ),
         gapH4,
-        Text(
-          tr(LocaleKeys.description),
-          style: Theme.of(context).textTheme.titleLarge,
+        Center(
+          child: Text(
+            tr(LocaleKeys.description),
+            style: Theme.of(context).textTheme.titleLarge,
+          ),
         ),
         gapH8,
-        Text(
-          tr(LocaleKeys.subDescription),
-          style: Theme.of(context).textTheme.bodyLarge,
+        Center(
+          child: Text(
+            tr(LocaleKeys.subDescription),
+            style: Theme.of(context).textTheme.bodyLarge,
+          ),
         ),
         _buildResumeButton(ref, resumes: resumes.toList()),
         const Spacer(),
         gapH8,
-        ContactBar(contacts: contacts.toList()),
+        Center(child: ContactBar(contacts: contacts.toList())),
       ],
     );
   }

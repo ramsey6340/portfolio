@@ -17,11 +17,20 @@ class PersonalInfoTablet extends ConsumerWidget {
     final contacts = ref.watch(personalInfoRepositoryProvider).getContacts();
 
     return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: [
-        Text(
-          tr(LocaleKeys.name),
-          style: Theme.of(context).textTheme.displayLarge,
+        const Center(
+          child: CircleAvatar(
+            radius: 80,
+            backgroundImage: AssetImage("assets/images/profile.png"),
+          ),
+        ),
+
+        Center(
+          child: Text(
+            tr(LocaleKeys.name),
+            style: Theme.of(context).textTheme.displayLarge,
+          ),
         ),
         gapH4,
         Text(

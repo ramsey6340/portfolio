@@ -1,32 +1,32 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Développeur Mobile",
-    "subDescription": "Passionné par Flutter & Python",
+    "name": "Drissa Sidiki Traore",
+    "description": "Développeur Web et Mobile",
+    "subDescription": "Passionné par Flutter & Spring Boot",
     "contacts": [
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-abdou/",
+            "url": "https://www.linkedin.com/in/drissa-sidiki-traore-4617a1223/",
             "iconCodePoint": "0xf08c",
             "iconFontFamily": "FontAwesomeBrands",
             "iconFontPackage": "font_awesome_flutter"
         },
         {
             "tooltip": "Github",
-            "url": "https://github.com/Aaldn",
+            "url": "https://github.com/ramsey6340",
             "iconCodePoint": "0xf09b",
             "iconFontFamily": "FontAwesomeBrands",
             "iconFontPackage": "font_awesome_flutter"
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "drissasidiki7219@gmail.com",
+            "url": "mailto:drissasidiki7219@gmail.com",
             "iconCodePoint": "0xf0e0",
             "iconFontFamily": "FontAwesomeSolid",
             "iconFontPackage": "font_awesome_flutter"
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+223 72 19 66 36",
+            "url": "tel:+22372196636",
             "iconCodePoint": "0xf095",
             "iconFontFamily": "FontAwesomeSolid",
             "iconFontPackage": "font_awesome_flutter"
@@ -35,171 +35,187 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1JXIr0GSK_VQccfBLUd9cAZgqtipHGjLP/view?usp=sharing"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1ygkZ0gNBPIbERk7O-Xdjgyf3yrFt5dCh/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Bonjour ! Je m'appelle Aladdine, et je suis apprenti développeur en quatrième année de Mobilité et Objets Connectés à l'ESGI Paris. Passionné par l'écosystème mobile, je combine mes études et mon expérience professionnelle pour créer des applications intuitives et riches en fonctionnalités.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeant.",
+    "aboutDescription": "Salamou aleykoum ! Je m'appelle Drissa Sidiki Traore, développeur Web et Mobile et étudiant en troisième année licence à l'Ecole National d'Ingenieur (ENI-ABT).\nPassionné par l'écosystème web et mobile, je combine mes études et mon expérience en developpement informatique pour créer des applications intuitives et riches en fonctionnalités.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeant.",
+
     "experiences": [
         {
-            "job": "Développeur Mobile",
-            "company": "Walt Disney Imagineering",
-            "description": "Développement d'une application mobile offline-first de levée des réserves pour Disneyland Paris, facilitant aux experts techniques la prise d'informations sur le terrain et fluidifiant la communication avec les services de maintenance pour la résolution des problèmes.",
+            "job": "Langages de programmation",
+            "company": "",
+            "description": "Je maitrise plusieur langages de programmation parmi lesquels nous avons :",
             "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
             "technologies": [
-                "Flutter",
+                "Java",
                 "Dart",
-                "Django",
                 "Python",
-                "PostgreSQL",
-                "SQLite",
-                "Docker"
-            ],
-            "links": [
-                {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
-                }
-            ]
-        },
-        {
-            "job": "Développeur Mobile",
-            "company": "Solutions Multi Techniques",
-            "description": "Développement d'une Progressive Web App pour les techniciens en systèmes de sécurité, leur permettant de générer des devis PDF complets. Cela permet la remise immédiate des devis aux clients après leur visite, augmentant ainsi le taux de conversion.",
-            "startYear": 2022,
-            "startMonth": 1,
-            "endYear": 2022,
-            "endMonth": 2,
-            "technologies": [
-                "Flutter",
-                "Dart",
-                "Firebase"
-            ]
-        },
-        {
-            "job": "Développeur Web",
-            "company": "Association FAIRE",
-            "description": "Développement du site web de l'association, en collaboration au sein d'un groupe de développeurs. Ce site web offre à ses visiteurs la possibilité d'en savoir plus sur l'association et de la rejoindre en tant que membres.\nÀ ce jour, le site web a attiré plus de 10 000 visites.",
-            "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
+                "PHP",
                 "HTML",
                 "CSS",
-                "Javascript",
-                "PHP",
-                "MariaDB",
-                "Apache"
-            ],
-            "links": [
-                {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
-                }
+                "TypeScript",
+                "JavaScript",
+                "SQL",
+                "C"
+            ]
+        },
+        {
+            "job": "Technologies",
+            "company": "",
+            "description": "Je maitrise plusieur technologies pour le développement et la gestion de projet informatique :",
+            "technologies": [
+                "Flutter",
+                "Firebase",
+                "Spring Boot",
+                "MySql",
+                "Wordpress",
+                "Angular",
+                "Ionic",
+                "Github",
+                "Trello",
+                "Draw io",
+                "Figma",
+                "Bootstrap"
             ]
         }
     ],
     "present": "Présent",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "Oui, il s'agit de ce portfolio ! \nCe projet adopte une architecture basée sur Riverpod en suivant une approche orientée fonctionnalités pour sa structure. Il est entièrement responsive, et prend en charge plusieurs thèmes ainsi que plusieurs langues.",
-            "url": "https://github.com/Aaldn/portfolio#readme",
+            "name": "DEME-MICRO-SERVICE",
+            "description": "Il s'agit d'un projet microservice crée avec spring boot qui sert de backend pour une application pour promouvoir les organisations humanitaire telque les ONG, les Associations, les fondations, etc.\nCette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web)",
+            "url": "https://github.com/ramsey6340/deme-micro-service",
             "iconCodePoint": "0xf09b",
             "iconFontFamily": "FontAwesomeBrands",
             "iconFontPackage": "font_awesome_flutter",
-            "screenshotPath": "assets/images/portfolio.png",
+            "screenshotPath": "assets/images/deme-micro-service-img.png",
             "technologies": [
-                "Flutter",
-                "Dart",
+                "Spring Boot",
                 "Firebase"
-            ],
-            "links": [
-                {
-                    "url": "https://aladdine.dev",
-                    "display": "Inspiré par Aladdine Abdou"
-                }
             ]
         },
         {
-            "name": "Learn Flow API",
-            "description": "Learn Flow est un projet de groupe visant à créer une solution de mise en relation d'élèves et d'enseignants. Cette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web). Elle offre notamment des fonctionnalités d'authentification (JWT).",
-            "url": "https://github.com/Aaldn/learnflow-api#readme",
+            "name": "DEME",
+            "description": "Deme est une application mobile dont le but est la promotion des organisations humanitaire telque les ONG, Association, etc.\nIl permet à ses utilisateurs de faire des dons à des organisations, de demander et recevoir des dons auprès d'autre utilisateur, les organisations peuvent poster leurs activité, etc.",
+            "url": "https://github.com/ramsey6340/deme",
             "iconCodePoint": "0xf09b",
             "iconFontFamily": "FontAwesomeBrands",
             "iconFontPackage": "font_awesome_flutter",
-            "screenshotPath": "assets/images/learnflow-api.png",
-            "technologies": [
-                "Node.js",
-                "Express",
-                "TypeScript",
-                "MongoDB",
-                "Docker"
-            ]
-        },
-        {
-            "name": "Learn Flow Backoffice",
-            "description": "Il s'agit du back-office conçu pour les managers du projet Learn Flow. Cette Single-Page App leur permet de surveiller l'activité de leurs applications et utilisateurs (trafic, factures...).",
-            "url": "https://github.com/Aaldn/learnflow_backoffice#readme",
-            "iconCodePoint": "0xf09b",
-            "iconFontFamily": "FontAwesomeBrands",
-            "iconFontPackage": "font_awesome_flutter",
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/deme_img.png",
             "technologies": [
                 "Flutter",
-                "Dart"
+                "Firebase"
             ]
         },
         {
-            "name": "GSB-Frais",
-            "description": "GSB-Frais est une application web de gestion des frais, développée pour les délégués médicaux et les comptables de l'entreprise fictive GSB. Elle facilite la saisie et la vérification des rapports mensuels des délégués médicaux, tout en permettant aux comptables de les traiter.",
-            "url": "https://github.com/Aaldn/GSB-Frais#readme",
+            "name": "MASJID",
+            "description": "Il s'agit d'un projet de groupe.\nMasjid est une application mobile créer en faveur de la communauté musulmane du Mali pour permettre aux musulmans de rester informé de tous les activité rélugieux, telques les evênements ismalique au Mali, la localisation des mosqués, les frequences des radios islamique malien, etc.",
+            "url": "https://github.com/ramsey6340/masjid",
             "iconCodePoint": "0xf09b",
             "iconFontFamily": "FontAwesomeBrands",
             "iconFontPackage": "font_awesome_flutter",
-            "screenshotPath": "assets/images/gsb-frais.png",
+            "screenshotPath": "assets/images/masjid.png",
             "technologies": [
-                "Symfony",
-                "PHP",
-                "Bootstrap",
-                "MariaDB",
-                "Apache",
-                "Docker"
+                "Ionic",
+                "Firebase"
             ]
         },
         {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "L'API REST du projet GSB sert d'interface pour les différents clients du projet (Android, Desktop et Web).",
-            "url": "https://github.com/Aaldn/GSB-RV-Visiteur-Serveur#readme",
+            "name": "PERSO-BUDGET-MANAGER",
+            "description": "Perso-Budget-Manager est une application qui sert de backend pour une plateforme de gestion de budget personnel.\nCette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web).",
+            "url": "https://github.com/ramsey6340/persobudgetmanager",
             "iconCodePoint": "0xf09b",
             "iconFontFamily": "FontAwesomeBrands",
             "iconFontPackage": "font_awesome_flutter",
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
+            "screenshotPath": "assets/images/persobudgetmanager.png",
             "technologies": [
-                "Flask",
-                "Python",
-                "MariaDB",
-                "Docker"
+                "Spring Boot",
+                "MySql"
             ]
         },
         {
-            "name": "GSB-RV-DR",
-            "description": "GSB-RV-DR est une application de bureau conçue pour les délégués régionaux de l'entreprise fictive GSB. Elle permet de suivre les rapports de visite et de monitorer les activités des délégués médicaux. Les délégués régionaux peuvent accéder à la liste des rapports et y appliquer des filtres ou les trier.",
-            "url": "https://github.com/Aaldn/GSB-RV-DR#readme",
+            "name": "SUGU-API",
+            "description": "sugu-api est un projet backend pour une application de e-commerce.\nCette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web).",
+            "url": "https://github.com/ramsey6340/sugu-api",
             "iconCodePoint": "0xf09b",
             "iconFontFamily": "FontAwesomeBrands",
             "iconFontPackage": "font_awesome_flutter",
-            "screenshotPath": "assets/images/gsb-rv-dr.png",
+            "screenshotPath": "assets/images/suguapi.png",
             "technologies": [
-                "JavaFX",
-                "Java",
-                "MariaDB"
+                "Django",
+                "Sqlite"
+            ]
+        },
+        {
+            "name": "SUGU",
+            "description": "Sugu est une application de e-commerce simple et intuitive crée avec le framework Flutter.",
+            "url": "https://github.com/ramsey6340/sugu",
+            "iconCodePoint": "0xf09b",
+            "iconFontFamily": "FontAwesomeBrands",
+            "iconFontPackage": "font_awesome_flutter",
+            "screenshotPath": "assets/images/sugu.png",
+            "technologies": [
+                "Flutter"
+            ]
+        },
+        {
+            "name": "OPENCLASS",
+            "description": "OpenClass est une application de reseau social educatif permettant à ses utilisateurs de créer des classe, des salles dans les classe, d'ajouter d'autre utilisateur dans des classes, de faire des chats instantané, etc.",
+            "url": "https://github.com/ramsey6340/openclass",
+            "iconCodePoint": "0xf09b",
+            "iconFontFamily": "FontAwesomeBrands",
+            "iconFontPackage": "font_awesome_flutter",
+            "screenshotPath": "assets/images/openclass.png",
+            "technologies": [
+                "Flutter",
+                "Firebase"
+            ]
+        },
+        {
+            "name": "API-REST-QUIZ",
+            "description": "Api-rest-quiz est un projet backend pour une application de quiz qui permet de créer et de jouer à des quiz.\nCette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web).",
+            "url": "https://github.com/ramsey6340/apirestquiz",
+            "iconCodePoint": "0xf09b",
+            "iconFontFamily": "FontAwesomeBrands",
+            "iconFontPackage": "font_awesome_flutter",
+            "screenshotPath": "assets/images/apirestquiz.png",
+            "technologies": [
+                "Spring Boot",
+                "MySql"
+            ]
+        },
+        {
+            "name": "ODK-LEARNERS",
+            "description": "ODK-Learners est une plateforme d'enregistrement des apprenants des promotions du centre de formation Orange Digital Kalanso (ODK) du Mali",
+            "url": "https://github.com/ramsey6340/odk_learners",
+            "iconCodePoint": "0xf09b",
+            "iconFontFamily": "FontAwesomeBrands",
+            "iconFontPackage": "font_awesome_flutter",
+            "screenshotPath": "assets/images/odk_learners.png",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "MySql"
+            ]
+        },
+        {
+            "name": "PDF-Download",
+            "description": "PDF-Download est une plateforme de partage de connaissance permettant à ses utilisateurs de télécharger et d'uploader des documents.",
+            "url": "https://github.com/ramsey6340/pdf-download",
+            "iconCodePoint": "0xf09b",
+            "iconFontFamily": "FontAwesomeBrands",
+            "iconFontPackage": "font_awesome_flutter",
+            "screenshotPath": "assets/images/pdf_download.png",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "MySql"
             ]
         }
     ],
@@ -216,9 +232,9 @@
         }
     ],
     "bottomBanner": {
-        "message": "Portfolio open source -",
-        "displayLink": "Forkez-le !",
-        "linkUrl": "https://github.com/Aaldn/portfolio#readme"
+        "message": "Portfolio- Drissa Sidiki Traore",
+        "displayLink": "",
+        "linkUrl": ""
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Accueil",

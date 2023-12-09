@@ -17,8 +17,16 @@ class PersonalInfoMobile extends ConsumerWidget {
     final contacts = ref.watch(personalInfoRepositoryProvider).getContacts();
 
     return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: [
+        const Center(
+          child: CircleAvatar(
+            radius: 60,
+            backgroundImage: AssetImage("assets/images/profile.png"),
+          ),
+        ),
+
+
         Text(
           tr(LocaleKeys.name),
           style: Theme.of(context).textTheme.displayMedium,

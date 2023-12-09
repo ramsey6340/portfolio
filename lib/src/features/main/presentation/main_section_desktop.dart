@@ -47,7 +47,7 @@ class MainDesktop extends ConsumerWidget {
                       },
                       child: MySelectionArea(
                         child: Container(
-                          padding: const EdgeInsets.fromLTRB(100, 80, 100, 100),
+                          padding: const EdgeInsets.only(top: 10),
                           color: Theme.of(context).colorScheme.primary,
                           child: const Align(
                             alignment: Alignment.topRight,
