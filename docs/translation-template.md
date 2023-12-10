@@ -24,7 +24,7 @@ Here's the template of a JSON translation file:
   "resumes": [
     {
       "languageCode": "en", // Language code matching one defined in "languages" key
-      "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing" // URL to open when the corresponding resume language tile is tapped
+      "url": "https://drive.google.com/file/d/1fmDdThrhrrJAxOr9POiQ927oAaPTR-m2/view?usp=sharing" // URL to open when the corresponding resume language tile is tapped
     }
   ],
 

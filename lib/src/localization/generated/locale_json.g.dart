@@ -51,7 +51,7 @@ class CodegenLoader extends AssetLoader{
     "resumes": [
       {
         "languageCode": "en",
-        "url": "https://drive.google.com/file/d/1JXIr0GSK_VQccfBLUd9cAZgqtipHGjLP/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1fmDdThrhrrJAxOr9POiQ927oAaPTR-m2/view?usp=sharing"
       },
       {
         "languageCode": "fr",
@@ -300,7 +300,7 @@ static const Map<String,dynamic> fr = {
   "resumes": [
     {
       "languageCode": "en",
-      "url": "https://drive.google.com/file/d/1JXIr0GSK_VQccfBLUd9cAZgqtipHGjLP/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1fmDdThrhrrJAxOr9POiQ927oAaPTR-m2/view?usp=sharing"
     },
     {
       "languageCode": "fr",

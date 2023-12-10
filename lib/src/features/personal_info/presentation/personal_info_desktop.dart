@@ -16,8 +16,8 @@ class PersonalInfoDesktop extends ConsumerWidget {
     final resumes = ref.watch(personalInfoRepositoryProvider).getResumes();
     final contacts = ref.watch(personalInfoRepositoryProvider).getContacts();
 
-    return ListView(
-      //crossAxisAlignment: CrossAxisAlignment.center,
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         const Center(
           child: CircleAvatar(
@@ -48,9 +48,9 @@ class PersonalInfoDesktop extends ConsumerWidget {
           ),
         ),
         _buildResumeButton(ref, resumes: resumes.toList()),
-        const Spacer(),
+        //const Spacer(),
         gapH8,
-        Center(child: ContactBar(contacts: contacts.toList())),
+        ContactBar(contacts: contacts.toList()),
       ],
     );
   }
