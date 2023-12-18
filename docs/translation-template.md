@@ -6,14 +6,14 @@ Here's the template of a JSON translation file:
 {
   // Personal Information
   "name": "Drissa Sidiki Traore", // Full name (first name and last name)
-  "description": "Software Imagineer", // Your professional title or role (e.g., Software Engineer)
-  "subDescription": "Flutter Enthusiast", // A brief description of your interests or focus
+  "description": "Développeur Web et Mobile", // Your professional title or role (e.g., Software Engineer)
+  "subDescription": "Passionné par Flutter & Spring Boot", // A brief description of your interests or focus
 
   // Contact Details
   "contacts": [
     {
       "tooltip": "Github", // Tooltip displayed when hovering or long-pressing the contact icon button
-      "url": "https://github.com/Aaldn", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
+      "url": "https://github.com/ramsey6340", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
       "iconCodePoint": "0xf09b", // Unicode code point for the icon (prefix with "0x" for hexadecimal), can be obtained from https://www.fontawesome.com
       "iconFontFamily": "FontAwesomeBrands", // Font family for the icon (e.g., FontAwesomeBrands), can be obtained from https://github.com/fluttercommunity/font_awesome_flutter/blob/32beff2ea1156d62d0c2130b8202b88a9724508f/pubspec.yaml
       "iconFontPackage": "font_awesome_flutter" // Name of the package providing the icon font (here, it's based on Font Awesome)
@@ -29,7 +29,7 @@ Here's the template of a JSON translation file:
   ],
 
   // About Me
-  "aboutDescription": "Salam! I'm Aladdine, an apprentice developer and third-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical expericence to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.", // about text that is displayed in "About Me" section
+  "aboutDescription": "Salamou aleykoum ! Je m'appelle Drissa Sidiki Traore, développeur Web et Mobile et étudiant en troisième année licence à l'Ecole National d'Ingenieur (ENI-ABT).Passionné par l'écosystème web et mobile, je combine mes études et mon expérience en developpement informatique pour créer des applications intuitives et riches en fonctionnalités. J'aspire à mettre mes compétences au service de projets inspirants et challengeant.", // about text that is displayed in "About Me" section
 
   // Experiences
   "experiences": [
